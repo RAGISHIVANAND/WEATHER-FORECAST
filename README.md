@@ -82,8 +82,9 @@ the visualization and machine learning tasks.
 
 
 
-BUILDING THE DIGRAPH CODING
-IN[2]:
+BUILDING THE DIGRAPH CODING IN[2]:
+
+
 def ann_viz(model,view=True,filename="network.gv"):
 
     from graphviz import Digraph
